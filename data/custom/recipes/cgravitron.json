@@ -1,0 +1,22 @@
+{
+    "type":"crafting_shaped",
+    "category":"equipment",
+    "key": {
+        "a":{"item":"create:precision_mechanism"},
+        "b":{"item":"vs_clockwork:physics_infuser"},
+        "c":{"item":"create:electron_tube"},
+        "d":{"item":"minecraft:shulker_shell"},
+        "e":{"item":"vs_clockwork:gravitron"},
+        "g":{"item":"create:brass_hand"},
+        "h":{"item":"minecraft:nether_star"}
+    },
+    "pattern": [
+        "abc",
+        "ded",
+        "ghg"
+    ],
+    "result": {
+        "count":1,
+        "item": "vs_clockwork:creative_gravitron"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "category":"equipment",
+    "key": {
+        "a":{"item":"biomesoplenty:lavender"},
+        "b":{"item":"minecraft:popped_chorus_fruit"},
+        "c":{"item":"create:blaze_cake"},
+        "d":{"item":"minecraft:end_crystal"}
+    },
+    "pattern": [
+        "ab ",
+        "bcb",
+        " d "
+    ],
+    "result": {
+        "count":1,
+        "item": "create:creative_blaze_cake"
+    }
+}

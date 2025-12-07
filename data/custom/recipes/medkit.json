@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "category":"equipment",
+    "key": {
+        "w":{"item":"minecraft:white_wool"},
+        "c":{"item":"minecraft:sugar_cane"}
+    },
+    "pattern": [
+        "ww",
+        "wc"
+    ],
+    "result": {
+        "count":1,
+        "item": "combatgear:stimpack"
+    }
+}

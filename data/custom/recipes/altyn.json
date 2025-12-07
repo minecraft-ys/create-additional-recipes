@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "category":"equipment",
+    "key": {
+        "a":{"item": "minecraft:iron_ingot"},
+        "b":{"item": "minecraft:glass"}
+    },
+    "pattern": [
+        "aaa",
+        "aba"
+    ],
+    "result": {
+        "count":1,
+        "item": "combatgear:altynup_helmet"
+    }
+}

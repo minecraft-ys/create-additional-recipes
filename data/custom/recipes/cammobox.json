@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "category":"equipment",
+    "key": {
+        "a":{"item":"createbigcannons:empty_autocannon_cartridge"},
+        "b":{"item":"minecraft:shulker_box"},
+        "c":{"item":"createbigcannons:autocannon_ammo_container"},
+        "d":{"item":"minecraft:ender_eye"}
+    },
+    "pattern": [
+        "ab ",
+        "bcb",
+        " d "
+    ],
+    "result": {
+        "count":1,
+        "item": "createbigcannons:creative_autocannon_ammo_container"
+    }
+}
