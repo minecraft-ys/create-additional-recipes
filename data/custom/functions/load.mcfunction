@@ -1,0 +1,1 @@
+tellraw @a "Create Additional Recipes has loaded"
